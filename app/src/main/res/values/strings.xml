@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica002</string>
+    <string name="resultado">Resultado</string>
+    <string name="name">Name</string>
+
+    <string name="calculadora">Calculadora</string>
+
+    <string name="numero_a">Numero A</string>
+    <string name="numero_b">Numero B</string>
+    <string name="Mas">+</string>
+    <string name="Menos">-</string>
+    <string name="x">x</string>
+    <string name="div">/</string>
+</resources>
